@@ -71,7 +71,7 @@
 </details><br>
 
 ❓ Permutation in String - 567
-- LC_String_M_9_6_`SlidingWindow&FrequencyCount`_05102024 <br>
+- LC_String_M_9_`SlidingWindow&FrequencyCount`_05102024 <br>
 - Pattern : Apply sliding window when you need to find pattern/sum in a subarray/substring
 <details>
 <summary>Optimal code</summary>
